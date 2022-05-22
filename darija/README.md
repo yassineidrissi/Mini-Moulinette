@@ -34,10 +34,24 @@ script ghadi i compary m3a funtion original dyal.
 
 ### Installation
 
+dkhal les docier li andk fih les exercies o cloni lien li kayn f github matalan C03 adir:
+
 ```bash
 git clone https://github.com/y3ll0w42/Mini-Moulinette-c03
 ```
+## tkhdam script
 
+Dkhal wst docier li cloniti atkon smyto Mini-Moulinette ila mabdltihach mn ba3d dir :
+```bash
+bash grademe.sh
+```
+ola dir
+
+```bash
+bash /path/where/you/cloned/grademe.sh
+```
+
+o hanta nadi :nice:
 ### Configuration
 
 You can also choose the colors that will be used and the path where the
