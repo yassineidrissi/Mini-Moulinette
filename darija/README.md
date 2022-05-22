@@ -1,37 +1,36 @@
 # PREAMBLE
-This is an edit of prev c03est made by @yaidriss to fit with the 2022 project c03. <br/>
+Mini moulinette script bach tisti wach fichier kolchi nadi. <br/>
 (ORIGINAL REP : https://github.com/yassineidrissi) <br/>
 This update was made by @yaidriss <br/>
 
 # Mini-Moulinette
-<img align="right" src="./srcs/img_readme.png" width="50%"/>
-This repository contains script to test your c03 project.
+<img align="right" src="../srcs/img_readme.png" width="50%"/>
+kliki ala lien li bghiti bach tcloni tester li bghiti ala hsab days li andk.
 
-| Project  | Links |
+| Project  | Link |
 | ------------- | ------------- |
 | How to use it (in darija)  | [on this page](https://github.com/y3ll0w42/Mini-Moulinette-c03/blob/master/supported_functions.md)  |
 | C02  | [on this page](https://github.com/yassineidrissi/Mini_Moulinette_C02)  |
 | C03  | [on this page](https://github.com/yassineidrissi/Mini-Moulinette-C03) |
 | C04  | [on this page](https://github.com/yassineidrissi/Mini-Moulinette-C04)  |
 
-The script will do the following tests :
+script mli atkhdmo ghadi :
 
-- Check if the author file exists
-- Check content of the author file
-- Compil library
-- Check norminette errors
-- Check forbidden functions
-- Tests functions
+- ichof wach kaynin des fichies khrin ?
+- wach ka3 li fichiers li kahsin kaynin
+- Compili fichier b gcc -wall ...
+- aychof wach kolchi hwa hdak f norminette
+- aychof forbidden functions
+- aTesti les functions o ykolk wach shah o fin kayn ghalat
 
-At the end of the tests, a deepthought file will be created, inside which you
-can find all the results and error/failure messages. You can also see your
-results in tests directory.
+mli tsali test, kyan wa7d fichier smyto deepthought ghadi itkriya wst Mini moulinete 
+o ghatl9a fih les errors o les tests li dari o fin ghlti o fin li shih.
 
-The script will compil your files with your c03.
+script ghadi i compary m3a funtion original dyal.
 
-:warning:All the tests made are not the official tests:warning:
+:warning:ka3 les tests machi officiel:warning:
 
-## Getting Started
+## nbdaw 
 
 ### Installation
 
@@ -41,9 +40,6 @@ git clone https://github.com/y3ll0w42/Mini-Moulinette-c03
 
 ### Configuration
 
-If you run the script for the first time, it will automatically create
-`my_config.sh` file and ask you to edit it with the path of your c03
-project.
 You can also choose the colors that will be used and the path where the
 
 ### Options available
@@ -63,7 +59,7 @@ bash grademe.sh ft_strcmpy -f ft_ -n
 ```
 
 ### Supported functions
-All the supported functions are listed [on this page](https://github.com/yassineidrissi/Mini-Moulinette-c03/blob/master/supported_functions.md).
+ha chno kaysiporti mini moulennete [on this page](https://github.com/yassineidrissi/Mini-Moulinette-c03/blob/master/supported_functions.md).
 
 ### Contributors
 - yaidriss : https://github.com/yassineidrissi
