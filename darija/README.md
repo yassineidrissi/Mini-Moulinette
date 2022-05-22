@@ -9,7 +9,7 @@ kliki ala lien li bghiti bach tcloni tester li bghiti ala hsab days li andk.
 
 | Project  | Link |
 | ------------- | ------------- |
-| How to use it (in darija)  | [on this page](https://github.com/y3ll0w42/Mini-Moulinette-c03/blob/master/supported_functions.md)  |
+| How to use it (in darija)  | [on this page](https://github.com/yassineidrissi/Mini-Moulinette/blob/master/darija/README.md)  |
 | C02  | [on this page](https://github.com/yassineidrissi/Mini_Moulinette_C02)  |
 | C03  | [on this page](https://github.com/yassineidrissi/Mini-Moulinette-C03) |
 | C04  | [on this page](https://github.com/yassineidrissi/Mini-Moulinette-C04)  |
