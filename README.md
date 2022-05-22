@@ -5,7 +5,7 @@ This update was made by @yaidriss <br/>
 
 # Mini-Moulinette
 <img align="right" src="./srcs/img_readme.png" width="50%"/>
-This repository contains script to test your c03 project.
+This link contains script to test your c projects.
 
 | Project  | Links |
 | ------------- | ------------- |
@@ -18,7 +18,6 @@ The script will do the following tests :
 
 - Check if the author file exists
 - Check content of the author file
-- Compil library
 - Check norminette errors
 - Check forbidden functions
 - Tests functions
@@ -27,7 +26,7 @@ At the end of the tests, a deepthought file will be created, inside which you
 can find all the results and error/failure messages. You can also see your
 results in tests directory.
 
-The script will compil your files with your c03.
+The script will compil your files with originale funtions.
 
 :warning:All the tests made are not the official tests:warning:
 
