@@ -40,9 +40,6 @@ git clone https://github.com/y3ll0w42/Mini-Moulinette-c03
 
 ### Configuration
 
-If you run the script for the first time, it will automatically create
-`my_config.sh` file and ask you to edit it with the path of your c03
-project.
 You can also choose the colors that will be used and the path where the
 
 ### Options available
