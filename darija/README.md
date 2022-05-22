@@ -1,7 +1,7 @@
 # PREAMBLE
 Mini moulinette script bach tisti wach fichier kolchi nadi. <br/>
 (ORIGINAL REP : https://github.com/yassineidrissi) <br/>
-This update was made by @yaidriss <br/>
+9ado @yaidriss <br/>
 
 # Mini-Moulinette
 <img align="right" src="../srcs/img_readme.png" width="50%"/>
