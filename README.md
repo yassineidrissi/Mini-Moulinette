@@ -3,9 +3,17 @@ This is an edit of prev c03est made by @yaidriss to fit with the 2022 project c0
 (ORIGINAL REP : https://github.com/yassineidrissi) <br/>
 This update was made by @yaidriss <br/>
 
-# Mini-Moulinette-c03
+# Mini-Moulinette
 <img align="right" src="./srcs/img_readme.png" width="50%"/>
 This repository contains script to test your c03 project.
+
+| Project  | Links |
+| ------------- | ------------- |
+| How to use it (in darija)  | [on this page](https://github.com/y3ll0w42/Mini-Moulinette-c03/blob/master/supported_functions.md)  |
+| C02  | [on this page](https://github.com/yassineidrissi/Mini_Moulinette_C02)  |
+| C03  | [on this page](https://github.com/yassineidrissi/Mini-Moulinette-C03) |
+| C04  | [on this page](https://github.com/yassineidrissi/Mini-Moulinette-C04)  |
+
 The script will do the following tests :
 
 - Check if the author file exists
@@ -37,34 +45,6 @@ If you run the script for the first time, it will automatically create
 `my_config.sh` file and ask you to edit it with the path of your c03
 project.
 You can also choose the colors that will be used and the path where the
-deepthought file will be created.
-
-#### Custom directories
-
-If you use custom directories for your header and source files; you should specify there name in my_config.sh.
-
-The following variables must be set:
-```
-HEADER_DIR
-SRC_DIR
-```
-Exemple:
-```
-HEADER_DIR="includes"
-SRC_DIR="srcs"
-```
-
-
-## Running script
-
-Go to the directory where you cloned and run the script
-```bash
-bash grademe.sh
-```
-or simply run the script with the path
-```bash
-bash /path/where/you/cloned/grademe.sh
-```
 
 ### Options available
 | Option | Description |
@@ -83,13 +63,9 @@ bash grademe.sh ft_strcmpy -f ft_ -n
 ```
 
 ### Supported functions
-All the supported functions are listed [on this page](https://github.com/y3ll0w42/Mini-Moulinette-c03/blob/master/supported_functions.md).
-## Contribution
-
-Any suggestions or bugs reporting ?
-Contact [yassineidrissi.me](yassineidrissi.me)
+All the supported functions are listed [on this page](https://github.com/yassineidrissi/Mini-Moulinette-c03/blob/master/supported_functions.md).
 
 ### Contributors
 - yaidriss : https://github.com/yassineidrissi
-# C00_tester_1337
-# Mini_Moulinette_c03
+# C_tester_1337
+# Mini-Moulinette
