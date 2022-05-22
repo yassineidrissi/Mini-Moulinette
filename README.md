@@ -37,6 +37,16 @@ The script will compil your files with originale funtions.
 ```bash
 git clone https://github.com/y3ll0w42/Mini-Moulinette-c03
 ```
+## Running script
+
+Go to the directory where you cloned and run the script
+```bash
+bash grademe.sh
+```
+or simply run the script with the path
+```bash
+bash /path/where/you/cloned/grademe.sh
+```
 
 ### Configuration
 
