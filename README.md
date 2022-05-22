@@ -9,7 +9,7 @@ This link contains script to test your c projects.
 
 | Project  | Links |
 | ------------- | ------------- |
-| How to use it (in darija)  | [on this page](https://github.com/yassineidrissi/Mini-Moulinette/blob/master/darija/README.md)  |
+| How to use it (b Darija)  | [on this page](https://github.com/yassineidrissi/Mini-Moulinette/blob/master/darija/README.md)  |
 | C02  | [on this page](https://github.com/yassineidrissi/Mini_Moulinette_C02)  |
 | C03  | [on this page](https://github.com/yassineidrissi/Mini-Moulinette-C03) |
 | C04  | [on this page](https://github.com/yassineidrissi/Mini-Moulinette-C04)  |
